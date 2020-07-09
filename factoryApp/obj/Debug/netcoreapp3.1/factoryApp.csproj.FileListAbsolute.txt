@@ -1,0 +1,13 @@
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.csprojAssemblyReference.cache
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.AssemblyInfoInputs.cache
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.AssemblyInfo.cs
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.csproj.CoreCompileInputs.cache
+C:\Users\rubis\repos\factoryApp\factoryApp\bin\Debug\netcoreapp3.1\factoryApp.exe
+C:\Users\rubis\repos\factoryApp\factoryApp\bin\Debug\netcoreapp3.1\factoryApp.deps.json
+C:\Users\rubis\repos\factoryApp\factoryApp\bin\Debug\netcoreapp3.1\factoryApp.runtimeconfig.json
+C:\Users\rubis\repos\factoryApp\factoryApp\bin\Debug\netcoreapp3.1\factoryApp.runtimeconfig.dev.json
+C:\Users\rubis\repos\factoryApp\factoryApp\bin\Debug\netcoreapp3.1\factoryApp.dll
+C:\Users\rubis\repos\factoryApp\factoryApp\bin\Debug\netcoreapp3.1\factoryApp.pdb
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.dll
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.pdb
+C:\Users\rubis\repos\factoryApp\factoryApp\obj\Debug\netcoreapp3.1\factoryApp.genruntimeconfig.cache
